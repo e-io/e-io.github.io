@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am just an earthman. I love my planet.
 
-### More Information
+I am a software engineer. I have experience in Python, Java, C++ and other mainstream programming languages. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### To be in touch 
+
+Feel free to write in linkedin, instagram or send me an email.
+Currently, I live in the west part of Russia, but I can easily relocate myself anywhere.
+Я всегда готов к любым предложениям и любым переездам.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[my еmаil](mailto:ur.ay@ya.ru)
